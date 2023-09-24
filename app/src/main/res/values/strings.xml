@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Pos</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="food">Food</string>
+    <string name="drinks">Drinks</string>
+    <string name="shisha">Shisha</string>
+    <string name="username">username</string>
+    <string name="password">Enter password</string>
+    <string name="loading">Loading!!</string>
+    <string name="plswait">Please Wait......</string>
+    <string name="saving">Saving data.</string>
+    <string name="sending">Sending to Kitchen!</string>
+    <string name="logging">Logging in!</string>
+    <string name="login">Login</string>
+    <string name="table">Table no.</string>
+    <string name="placeorder">Place order</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancelorder">Cancel Order</string>
+    <string name="addcomm">Add Comment</string>
+    <string name="commenthint">Comment for Recipe</string>
+    <string name="remarks">Remarks</string>
+    <string name="submit">Submit</string>
+    <string name="department">Department</string>
+    <string name="users">Users</string>
+    <string name="send">Send</string>
+    <string name="submitserver">Submit Server</string>
+    <string name="delete">Delete</string>
+    <string name="qty">Qty</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
